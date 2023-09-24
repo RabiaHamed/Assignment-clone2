@@ -38,9 +38,9 @@ button{
     background-image: url(https://media.istockphoto.com/id/1358013032/photo/web-development-concept.webp?s=1024x1024&w=is&k=20&c=G4oJF0Za63djtQtUCo4a5nfjbLq9djPtc-6VXCUu4zA=);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    /* background-position: center; */
     height: 350px;
-    width: 100%;
+    width: 150%;
     position: relative;
 }
 .h2{
